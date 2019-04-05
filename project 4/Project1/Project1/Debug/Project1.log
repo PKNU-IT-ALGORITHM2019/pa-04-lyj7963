@@ -1,0 +1,41 @@
+﻿  소스.cpp
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(33): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(33): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(33): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(33): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(57): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(57): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(57): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(57): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(83): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(83): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(83): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(83): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(91): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: 'strdup' 선언을 참조하십시오.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(92): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: 'strdup' 선언을 참조하십시오.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(93): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: 'strdup' 선언을 참조하십시오.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(94): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: 'strdup' 선언을 참조하십시오.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(82): warning C4101: 'buf2' :참조되지 않은 지역 변수입니다.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(105): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(106): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(107): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(108): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(109): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(110): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(111): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\임예준\desktop\project 4\project1\project1\소스.cpp(112): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+  Project1.vcxproj -> C:\Users\임예준\Desktop\project 4\Project1\Debug\Project1.exe
